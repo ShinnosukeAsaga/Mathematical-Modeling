@@ -5,17 +5,17 @@ Please note that it probably contains some errors.
 I am not confident in my English skills, so my expressions may not be appropriate.
 
 | Times |Topic| Codes | Commentary |
-|:-----------:|:-----------|------------:|:------------:|
-| 1 |       |    ||
-| 2 | | ||
-| 3 |     |  |    |
-| 4 | | ||
-| 5 |     |  |    |
-| 6 | | ||
-| 7 |     |  |    |
-| 8 | | ||
-| 9 |     |  |    |
-| 10 | | ||
-| 11 |     |  |    |
-| 12 | | ||
-| 13 |     |  |    |
+|:-----------:|:-----------|:------------:|:------------:|
+| 1 |Guidance|none|none |
+| 2 |Probability model 1 | ||
+| 3 |Probability model 2|  |    |
+| 4 |Relationship Model 1| ||
+| 5 |Relationship Model 2|  |    |
+| 6 |Exercises 1 | ||
+| 7 |Lectures|  |    |
+| 8 |Linear Programming 1| ||
+| 9 |Linear Programming 2|  |    |
+| 10 |Nonlinear Programming 1| ||
+| 11 |Nonlinear Programming 2|  |    |
+| 12 |Competitive Landscape Model| ||
+| 13 |Exercises 2|  |    |
