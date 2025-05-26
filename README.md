@@ -9,9 +9,10 @@ I am not confident in my English skills, so my expressions may not be appropriat
 | 1 |Guidance|none|none |
 | 2 |Probability model 1 |[Task1](https://github.com/ShinnosukeAsaga/Mathematical-Modeling/blob/main/Task_1.ipynb)|[Task1](https://github.com/ShinnosukeAsaga/Mathematical-Modeling/blob/main/Task1.pdf)|
 | 3 |Probability model 2|[Task2](https://github.com/ShinnosukeAsaga/Mathematical-Modeling/blob/main/Task_2.ipynb) |  none  |
-| 4 |Relationship Model 1| ||
-| 5 |Relationship Model 2|  |    |
-| 6 |Exercises 1 | ||
+| 4 |Relationship Model 1|[Task3]()|none|
+| 5 |Relationship Model 2|[Task4]()|[Task4]()|
+| 6 |Exercises 1 |[Exercises 1_python]()||
+|6  |        |[Exercises 1_R]()||
 | 7 |Lectures|  |    |
 | 8 |Linear Programming 1| ||
 | 9 |Linear Programming 2|  |    |
